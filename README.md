@@ -65,9 +65,4 @@ Busco uma **oportunidade de estágio ou vaga júnior**, onde eu possa aplicar me
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weverton-Charles&layout=compact" />
-</p>
-
-
 ⭐ Obrigado por visitar meu perfil! Estou sempre em busca de aprendizado e novos desafios.
