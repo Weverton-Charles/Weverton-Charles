@@ -114,10 +114,8 @@ Foco em:
 
 ## 📫 Como me encontrar
 
-📧 **Email:** dev.cod.weverton@gmail.com  
-
-💼 **LinkedIn:**  
-Weverton Charles
+- 📧 Email: [dev.cod.weverton@gmail.com](mailto:dev.cod.weverton@gmail.com)  
+- 💼 LinkedIn: [Weverton Charles](https://www.linkedin.com/in/weverton-charles-5a954739b/)
 
 ---
 
