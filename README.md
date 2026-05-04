@@ -12,23 +12,34 @@
 ## 🚀 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento Full Stack**.  
-Atualmente venho construindo projetos com tecnologias modernas de front-end e back-end, buscando uma oportunidade como **estagiário ou desenvolvedor júnior** para aplicar meus conhecimentos em projetos reais.
+Tenho construído projetos práticos com tecnologias modernas de front-end e back-end, buscando minha primeira oportunidade como **estagiário ou desenvolvedor júnior**.
 
-- 📚 Formação acadêmica pela **UNINTER**
-- 💻 Formação prática em desenvolvimento pela **DevClub**
-- 🚀 Construindo projetos com foco em aplicações web completas
-- 🎯 Objetivo: atuar como **Desenvolvedor Full Stack Júnior**
+Atualmente meus estudos estão focados em:
+
+- Desenvolvimento de interfaces modernas e responsivas
+- Construção de APIs REST
+- Integração com banco de dados
+- Arquitetura Full Stack
+- Versionamento e boas práticas de desenvolvimento
+
+🎯 **Objetivo:** conquistar minha primeira oportunidade como **Desenvolvedor Full Stack Júnior**.
 
 ---
 
 ## 🎓 Formação
 
-### **Análise e Desenvolvimento de Sistemas (ADS)**
-🏫 UNINTER – Em andamento
+### 📚 Análise e Desenvolvimento de Sistemas
+**UNINTER** — Em andamento
 
-### **Formação Full Stack**
-💻 DevClub – Em andamento  
-*Foco em projetos práticos, lógica de programação e desenvolvimento web.*
+### 💻 Formação Full Stack
+**DevClub** — Em andamento  
+
+Foco em:
+
+- Lógica de programação
+- Desenvolvimento web
+- Projetos práticos
+- Boas práticas de mercado
 
 ---
 
@@ -36,62 +47,85 @@ Atualmente venho construindo projetos com tecnologias modernas de front-end e ba
 
 ### 👨‍💻 Linguagens
 <p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
+
+---
 
 ### 🎨 Front-End
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
-### ⚙️ Back-End & Banco de Dados
+---
+
+### ⚙️ Back-End
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
 </p>
 
+---
+
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+---
+
+### 🔬 APIs e Testes
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</p>
+
+---
+
 ### 🧰 Ferramentas
 <p>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
 ---
 
 ## 📌 Projetos
 
-🔹 **Projetos acadêmicos e práticos em desenvolvimento**  
+🚀 Atualmente desenvolvendo projetos com foco em:
 
-Atualmente desenvolvendo aplicações com foco em:
-
-- Interfaces modernas e responsivas
+- Aplicações Full Stack
 - APIs REST
-- Banco de dados com ORM
-- Autenticação e segurança
-- Arquitetura Full Stack
+- Integração com banco de dados
+- Autenticação de usuários
+- Interfaces responsivas
+- Organização de código e arquitetura
 
-> Esta seção será atualizada com novos projetos e estudos práticos.
+> Novos projetos serão adicionados conforme minha evolução.
 
 ---
 
 ## 📫 Como me encontrar
 
-- 📧 Email: **dev.cod.weverton@gmail.com**
-- 💼 LinkedIn: **Weverton Charles**
+📧 **Email:** dev.cod.weverton@gmail.com  
+
+💼 **LinkedIn:**  
+Weverton Charles
 
 ---
 
 ## 📈 Objetivo Profissional
 
-Busco minha primeira oportunidade na área de desenvolvimento, onde eu possa contribuir, aprender com profissionais experientes e evoluir constantemente como desenvolvedor.
+Busco uma oportunidade para ingressar no mercado de tecnologia como **Desenvolvedor Full Stack Júnior**, contribuindo com projetos reais, aprendendo com profissionais experientes e evoluindo constantemente.
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Sempre aprendendo, construindo e evoluindo.
+⭐ Obrigado por visitar meu perfil!  
+Sempre aprendendo, construindo e evoluindo.
